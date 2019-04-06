@@ -8,7 +8,7 @@
 </head>
 <body>
 <f:view>
-f
+helloworld
 </f:view>
 </body>
 </html>
